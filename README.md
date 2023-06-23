@@ -1,9 +1,9 @@
-### Oi, Eu sou a Carol Coelho, estudante de ADS e entusiasta de tecnologia 😃
+### Hi! I'm Carol Coelho 😃
 
-- 🎓 Formada em Administração 
-- 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Aspirante a programadora Front-end/Web
-- 💖 Apaixonada por cultura geek, animes, séries e filmes
+- 👩‍💻 Systems Analysis and Development Student
+- 🎓 Graduated in Business Administration
+- 🌱 Aspiring a Front-end/Web carrer
+- 💖 Passionate about geek culture, animes, séries e movies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="LinaCo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
